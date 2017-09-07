@@ -19,12 +19,11 @@ use App\Pharmacy;
 
 // Route::get('pharmacies/', function(){
 //   $pharmacies = App\Pharmacy::all();
-//
 //   $response = Response::json($pharmacies);
 //   $response->header('Access-Control-Allow-Origin', '*');
 //   return $response;
 // });
-//
+
 // Route::get('/pharmacies/distance/{latitude}/{longitude}', function ($latitude, $longitude) {
 //   $pharmacies = App\Pharmacy::all();
 //
